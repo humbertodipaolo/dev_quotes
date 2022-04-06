@@ -1,1 +1,31 @@
--tickrate 128 -d3d9ex -novid -+fps_max 0 -nojoy -high -fullscreen +mat_disable_fancy_blending 1 +cl_forcepreload 1 -limitvsconst -forcenovsync +r_dynamic 0
+-tickrate 128 123456 -d3d9ex -novid -+fps_max 0 -nojoy -high -fullscreen +mat_disable_fancy_blending 1 +cl_forcepreload 1 -limitvsconst -forcenovsync +r_dynamic 0
+
+asdasdasdsa
+
+1
+
+2
+3
+3
+
+53
+14
+235
+2
+523
+4
+
+5
+346
+3
+63
+6
+34
+63
+46
+345
+
+25131124124
+3124345235235
+
+12412412412321
